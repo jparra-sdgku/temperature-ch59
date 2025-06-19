@@ -25,6 +25,6 @@ let area = 0;
 let radius = 3;
 
 area = pi * (radius * radius);
-console.log("The area is " + area.toFixed(2));
+console.log("The area of the circle is: " + area.toFixed(2));
 
 
