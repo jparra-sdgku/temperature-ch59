@@ -74,3 +74,5 @@ function convertToSeconds() {
     let seconds = minutes * 60;
    document.getElementById("results").innerHTML +=(`<p></p>Minutes ${minutes}, to Seconds equals ${seconds}</p>`);
 }
+
+
